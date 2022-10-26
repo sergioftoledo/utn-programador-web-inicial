@@ -1,0 +1,30 @@
+.navbar_style {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    background-color: #0BB3D9;
+}
+
+body {
+    background-color: #262626;
+}
+
+.body_style {
+    background-color: #262626;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+}
+
+.footer_style {
+    background-color: #0BB3D9;
+    color: white;
+}
+
+.footer_style a {
+    margin: 2%;
+}
